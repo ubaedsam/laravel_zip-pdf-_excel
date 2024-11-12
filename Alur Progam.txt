@@ -1,0 +1,11 @@
+Alur Progam
+Admin
+1. Buat fitur login/register untuk admin
+2. tampilkan semua data user
+3. buat fitur upload zip yang isinya Excel dan pdf
+4. buat fitur export download file pdf, preview pdf
+
+User
+1. buat fitur login untuk user berdasarkan NPWP user yang sudah terdaftar
+2. akan menampilkan detail data user berdasarkan NPWP
+3. buat fitur export download file pdf dan preview pdf
